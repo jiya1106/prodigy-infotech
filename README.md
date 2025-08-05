@@ -19,3 +19,8 @@ Global Population Distribution (2023) - Histogram
 1.Python (Pandas for data manipulation)
 
 2.Matplotlib for visualization
+<img width="720" height="443" alt="image" src="https://github.com/user-attachments/assets/684ef73c-7e9d-4e4a-8d84-22aa4ff1f1e0" />
+<img width="720" height="431" alt="image" src="https://github.com/user-attachments/assets/af35936e-0b82-4501-a80e-ce6e4da3ff96" />
+<img width="720" height="446" alt="image" src="https://github.com/user-attachments/assets/7506df00-b247-49fc-9c23-a0d81d911f0b" />
+
+
